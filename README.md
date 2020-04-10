@@ -7,7 +7,7 @@ This repo does not provide a top solution, but for backup and sharing.
 
 ## 1. Dataset
 
-Page: ["合肥高新杯"心电人机智能大赛](https://tianchi.aliyun.com/competition/entrance/231754/introduction?spm=5176.12281915.0.0.35216dc9Wdmtzg)
+Page: ["合肥高新杯"心电人机智能大赛”](https://tianchi.aliyun.com/competition/entrance/231754/introduction?spm=5176.12281915.0.0.35216dc9Wdmtzg)
 
 |Round|Classes|Train\*|TestA\*|TestB\*|
 |:---:|:-----:|:---:|:---:|:---:|
